@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href= "mailto: judith.bernett@tum.de">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/judith-bernett-164a32214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
