@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/judith-bernett-164a32214/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/judith_bernett">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 - 🔭 I’m currently working on PPI prediction and drug response prediction
